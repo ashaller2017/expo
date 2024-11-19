@@ -425,4 +425,8 @@ const RENAMED_PAGES: Record<string, string> = {
 
   // After deleting deprecated docs from archive section
   '/guides/using-flipper/': '/debugging/devtools-plugins/',
+
+  // After revamping notification guides
+  '/push-notifications/obtaining-a-device-token-for-fcm-or-apns/':
+    '/push-notifications/sending-notifications-custom/',
 };
